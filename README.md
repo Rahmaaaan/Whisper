@@ -69,8 +69,6 @@ Contributions to Whisper are welcome! To contribute, follow these steps:
    git checkout -b feature/your-feature-name
    ```
 
-````
-
 3. Make changes and commit them:
 
    ```bash
@@ -88,4 +86,3 @@ Contributions to Whisper are welcome! To contribute, follow these steps:
 ## Contact
 
 If you have any questions or feedback, feel free to reach out to us at therahman14@gmail.com. We're excited to hear from you and make this project even better!
-````
